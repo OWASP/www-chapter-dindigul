@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dindigul
-tags: Dindigul OWASP Chapter India
+tags: Dindigul OWASP Chapter 
 level: 4
 region: Asia
 ---
