@@ -8,7 +8,7 @@ tags: Dindigul OWASP Chapter
 
 ---
 
-## Upcomming Events
+## Upcoming Events
 
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 
