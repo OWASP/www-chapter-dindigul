@@ -3,7 +3,7 @@ title: pastevents
 displaytext: Past Events
 layout: null
 tab: true
-order: 3
+order: 2
 tags: Dindigul OWASP Chapter India
 
 ---
