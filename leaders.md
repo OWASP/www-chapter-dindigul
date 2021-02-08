@@ -2,9 +2,6 @@
 
 * [Arun Sakithivel](mailto:arun.sakthivel@owasp.org)
 
-### Chapter Members
-
-* [Prithiv (Secretary)](mailto:tamilbotnet@gmail.com)
 
 ### Contact
 - [Facebook](https://www.facebook.com/owaspdindigul)
