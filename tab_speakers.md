@@ -3,8 +3,8 @@ title: speakers
 displaytext: Speakers
 layout: null
 tab: true
-order: 4
-tags: Dindigul OWASP Chapter India
+order: 3
+tags: Dindigul OWASP Chapter 
 ---
 
 ## Speakers
