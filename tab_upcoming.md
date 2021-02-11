@@ -24,5 +24,5 @@ OWASP Dindigul in Collaboration with Akshay Jambagi & Vinoth kumar  `The unknown
 
 | Date/ Time           | Platform    | Register      |
 | :---                 |    :----:   |          ---: |
-| 13 FEB, 2021 11  AM  | Google Meet |   [Click Here](https://forms.gle/psmu8VQqFgBvRyDz8)  |
+| 13 FEB, 2021 11  AM  | Google Meet |     |
 
