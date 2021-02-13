@@ -12,6 +12,20 @@ tags: Dindigul OWASP Chapter
 
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 <hr>
+** 13th February, 2021 - 11:00 AM**
+
+OWASP Dindigul in Collaboration with Akshay Jambagi & Vinoth kumar  `The unknown: Chrome Extension's misuse cases` Webinar.
+
+![The unknown: Chrome Extension's misuse cases](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/004.jpg)
+
+<br />
+<br />
+
+| Date/ Time           | Platform    | Resource      |
+| :---                 |    :----:   |          ---: |
+| 13 FEB, 2021 11  AM  | Google Meet |   [Click Here]()  |
+
+<hr>
 **05th September, 2020 - 10:00 AM**
 
 OWASP Dindigul in Collaboration with Vinoth kumar  `Human psychology With Social Engineers` Webinar.
