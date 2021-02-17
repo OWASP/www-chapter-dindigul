@@ -3,8 +3,9 @@
 
 ### Chapter Volunteers
 
-* [Prithiv (Secretary)](mailto:tamilbotnet@gmail.com)
+<!-- * [Prithiv (Secretary)](mailto:tamilbotnet@gmail.com) -->
 
+* Volunteers - [Click Here to Contact-US](mailto:arun.sakthivel@owasp.com)
 
 ### Social Links
 * [Meetup](https://www.meetup.com/dindigul-owasp-meetup-group/)
