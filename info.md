@@ -3,7 +3,7 @@
 
 ### Chapter Volunteers
 
-<!-- * [Prithiv (Secretary)](mailto:tamilbotnet@gmail.com) -->
+<!-- * [Prithiv (Secretary)](mailto:tamilbotnet@gmail.org) -->
 
 * Volunteers - [Click Here to Contact-Us](mailto:arun.sakthivel@owasp.com)
 
