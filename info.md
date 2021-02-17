@@ -5,7 +5,7 @@
 
 <!-- * [Prithiv (Secretary)](mailto:tamilbotnet@gmail.com) -->
 
-* Volunteers - [Click Here to Contact-US](mailto:arun.sakthivel@owasp.com)
+* Volunteers - [Click Here to Contact-Us](mailto:arun.sakthivel@owasp.com)
 
 ### Social Links
 * [Meetup](https://www.meetup.com/dindigul-owasp-meetup-group/)
