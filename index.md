@@ -42,6 +42,6 @@ Would you like to speak on the upcoming OWASP Dindugul Webinar? [Contact Us](mai
 
 ## Local News
 
-**13th February, 2021 - 11:00 AM**
+<!-- **13th February, 2021 - 11:00 AM** -->
 
-OWASP Dindigul in Collaboration with Akshay Jambagi & Vinoth kumar  `The unknown: Chrome Extension's misuse cases` Webinar.
+<!--  OWASP Dindigul in Collaboration with Akshay Jambagi & Vinoth kumar  `The unknown: Chrome Extension's misuse cases` Webinar. -->
