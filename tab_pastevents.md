@@ -21,9 +21,9 @@ OWASP Dindigul in Collaboration with Akshay Jambagi & Vinoth kumar  `The unknown
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource      |
-| :---                 |    :----:   |          ---: |
-| 13 FEB, 2021 11  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1ordGoNYtYCN8rtT3MdY0WUiVmh3GsdqE/view)  |
+| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| :---                 |    :----:   |                                                                                   ---: |            ---: |
+| 13 FEB, 2021 11  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1ordGoNYtYCN8rtT3MdY0WUiVmh3GsdqE/view) | Arun Sakthivel  |
 
 <hr>
 **05th September, 2020 - 10:00 AM**
@@ -35,9 +35,9 @@ OWASP Dindigul in Collaboration with Vinoth kumar  `Human psychology With Social
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource      |
-| :---                 |    :----:   |          ---: |
-| 05 SEP, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1D3yk3HKtbONDYsPFWvWmX9A6can4R57m/view)  |
+| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| :---                 |    :----:   |                                                                                   ---: |            ---: |
+| 05 SEP, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1D3yk3HKtbONDYsPFWvWmX9A6can4R57m/view) | Arun Sakthivel  |
 
 <hr>
 
@@ -50,9 +50,9 @@ OWASP Dindigul in Collaboration with Shadow Phreak  `Hacking Phases in Network a
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource      |
-| :---                 |    :----:   |          ---: |
-| 26 AUG, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1RyGlAGF8z3ZVdtDBa5FEBXpzdHuTp6Y9/view)  |
+| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| :---                 |    :----:   |                                                                                   ---: |            ---: |
+| 26 AUG, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1RyGlAGF8z3ZVdtDBa5FEBXpzdHuTp6Y9/view) | Arun Sakthivel  |
 
 <hr>
 
@@ -65,7 +65,7 @@ OWASP Dindigul in Collaboration with Manvasam Tech Team  `Android Cyber Attack -
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource      |
-| :---                 |    :----:   |          ---: |
-| 28 June, 2020 11 AM  | Google Meet |               |
+| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| :---                 |    :----:   |                                                                                   ---: |            ---: |
+| 28 June, 2020 11 AM  | Google Meet |                                                                                        | Arun Sakthivel  |
 
