@@ -21,7 +21,7 @@ OWASP Dindigul in Collaboration with Akshay Jambagi & Vinoth kumar  `The unknown
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| Date/ Time           | Platform    | Resource                                                                               |    Organized by |
 | :---                 |    :----:   |                                                                                   ---: |            ---: |
 | 13 FEB, 2021 11  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1ordGoNYtYCN8rtT3MdY0WUiVmh3GsdqE/view) | Arun Sakthivel  |
 
@@ -35,7 +35,7 @@ OWASP Dindigul in Collaboration with Vinoth kumar  `Human psychology With Social
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| Date/ Time           | Platform    | Resource                                                                               |    Organized by |
 | :---                 |    :----:   |                                                                                   ---: |            ---: |
 | 05 SEP, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1D3yk3HKtbONDYsPFWvWmX9A6can4R57m/view) | Arun Sakthivel  |
 
@@ -50,7 +50,7 @@ OWASP Dindigul in Collaboration with Shadow Phreak  `Hacking Phases in Network a
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| Date/ Time           | Platform    | Resource                                                                               |    Organized by |
 | :---                 |    :----:   |                                                                                   ---: |            ---: |
 | 26 AUG, 2020 10  AM  | Google Meet |   [Click Here](https://drive.google.com/file/d/1RyGlAGF8z3ZVdtDBa5FEBXpzdHuTp6Y9/view) | Arun Sakthivel  |
 
@@ -65,7 +65,7 @@ OWASP Dindigul in Collaboration with Manvasam Tech Team  `Android Cyber Attack -
 <br />
 <br />
 
-| Date/ Time           | Platform    | Resource                                                                               |       organizer |
+| Date/ Time           | Platform    | Resource                                                                               |    Organized by |
 | :---                 |    :----:   |                                                                                   ---: |            ---: |
 | 28 June, 2020 11 AM  | Google Meet |                                                                                        | Arun Sakthivel  |
 
