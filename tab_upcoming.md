@@ -15,9 +15,9 @@ tags: Dindigul OWASP Chapter
 <hr>
 ** 24th April, 2021 - 11:00 AM**
 
-OWASP Dindigul in Collaboration with Dhiyanesh  `Demistifying insecure deserialisation on JSF application` Webinar.
+OWASP Dindigul in Collaboration with Dhiyanesh  `Demystifying insecure deserialisation on JSF application` Webinar.
 
-![Demistifying insecure deserialisation on JSF application ](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/005.jpg)
+![Demystifying insecure deserialisation on JSF application ](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/005.jpg)
 
 <br />
 <br />
