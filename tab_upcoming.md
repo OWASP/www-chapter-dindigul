@@ -13,7 +13,7 @@ tags: Dindigul OWASP Chapter
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 
 <hr>
-** 24th April, 2021 - 11:00 AM**
+**24th April, 2021 - 11:00 AM**
 
 OWASP Dindigul in Collaboration with Dhiyanesh  `Demystifying insecure deserialisation on JSF application` Webinar.
 
