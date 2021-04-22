@@ -22,9 +22,9 @@ OWASP Dindigul in Collaboration with Dhiyanesh  `Demystifying insecure deseriali
 <br />
 <br />
 
-| Date/ Time           | Platform    | Registed                                                                               |    Organized by |
-| :---                 |    :----:   |                                                                                   ---: |            ---: |
-| 24 APR, 2021 11  AM  | Google Meet |   [Click Here](https://forms.gle/nftKH4opnSJ21hNW7) | Prithiv |
+| Date/ Time           | Platform    | Join Meeting    - 24th April, 2021 - 11:00 AM        |    Organized by |
+| :---                 |    :----:   |                                                 ---: |    ---: |
+| 24 APR, 2021 11  AM  | Google Meet |   [Click Here](https://meet.google.com/vkq-yqpo-gto) | Prithiv |
 
 
 
