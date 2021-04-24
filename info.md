@@ -11,4 +11,5 @@
 * [Meetup](https://www.meetup.com/dindigul-owasp-meetup-group/)
 * [Facebook](https://www.facebook.com/owaspdindigul)
 * [Twitter](https://twitter.com/owaspdindigul) 
+* [YouTube](https://www.youtube.com/channel/UC7v0--poheLAx3E-fkDtaXA)
 
