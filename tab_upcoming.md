@@ -11,7 +11,7 @@ tags: Dindigul OWASP Chapter
 ## Upcoming Events
 
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
-
+{% include chapter_events.html group=page.meetup-group %}
 <hr>
 
 
