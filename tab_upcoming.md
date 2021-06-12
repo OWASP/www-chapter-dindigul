@@ -21,9 +21,9 @@ OWASP Dindigul in Collaboration with Dhiyanesh  `Bypassing SAML Authentication` 
 <br />
 <br />
 
-| Date/ Time           | Platform    | Registration                             |    Organized by |
+| Date/ Time           | Platform    | Meeting                              |    Organized by |
 | :---                 |    :----:   |                                         ---: |    ---: |
-| 13 JUNE, 2021 11  AM  | Google Meet |   [Click Here](https://forms.gle/1dBhRMt4r5wc1H5n9) | Arun Sakthivel |
+| 13 JUNE, 2021 11  AM  | Google Meet |   [Click Here](https://meet.google.com/fre-ndbt-sav) | Arun Sakthivel |
 
 
 {% include chapter_events.html group=page.meetup-group %}
