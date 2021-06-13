@@ -12,18 +12,7 @@ tags: Dindigul OWASP Chapter
 
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 <hr>
-**13th JUNE, 2021 - 11:00 AM**
 
-OWASP Dindigul in Collaboration with Dhiyanesh  `Bypassing SAML Authentication` Webinar.
-
-![Bypassing SAML Authentication](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/006.jpg)
-
-<br />
-<br />
-
-| Date/ Time           | Platform    | Meeting                              |    Organized by |
-| :---                 |    :----:   |                                         ---: |    ---: |
-| 13 JUNE, 2021 11  AM  | Google Meet |   [Click Here](https://meet.google.com/fre-ndbt-sav) | Arun Sakthivel |
 
 
 {% include chapter_events.html group=page.meetup-group %}
