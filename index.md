@@ -11,7 +11,7 @@ region: Asia
 
 ## Welcome 
 
-<img src="assets/images/Logo/OWASP.jpg"/>
+<img src="assets/images/Logo/owasp-dindigul-logo.png"/>
 
 Welcome to Owasp Dindigul chapter Homepage. We are located in a beautiful state of India called Tamil Nadu. The main motive of this chapter is to enrich infosec community in our place.
 
