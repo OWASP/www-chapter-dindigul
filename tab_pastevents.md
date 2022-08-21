@@ -12,6 +12,20 @@ tags: Dindigul OWASP Chapter
 
 ```Stay in touch with us to get updates about upcoming meetings!!!``` 
 <hr>
+**21st AUG, 2022 - 7:30 PM IST**
+
+OWASP Dindigul in Collaboration with Jeevakumar  `Android Pentesting` Webinar.
+
+![Android Pentesting](https://raw.githubusercontent.com/OWASP/www-chapter-dindigul/master/assets/images/event/007.jpg)
+
+<br />
+<br />
+
+| Date/ Time           | Platform    | Resource                              | Passcode |    Organized by |
+| :---                 |    :----:   |                                         ---: |   :----:  |   ---: |
+| 13 JUNE, 2021 11  AM  | Zoom |   [Click Here](https://us06web.zoom.us/rec/share/h1Ji6SvQaLTGLctvxKdkmK6-DeB5zSoTP5u--RSaaB6XfJlh17_6LczQYTGn7opW.M_k2sFRkwJFiEEHy?startTime=1661090799000) | 31q8+Y&y |Arun Sakthivel |
+
+<br >
 **13th JUNE, 2021 - 11:00 AM**
 
 OWASP Dindigul in Collaboration with Dhiyanesh  `Bypassing SAML Authentication` Webinar.
