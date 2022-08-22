@@ -23,7 +23,7 @@ OWASP Dindigul in Collaboration with Jeevakumar  `Android Pentesting` Webinar.
 
 | Date/ Time           | Platform    | Resource                              | Passcode |    Organized by |
 | :---                 |    :----:   |                                         ---: |   :----:  |   ---: |
-| 13 JUNE, 2021 11  AM  | Zoom |   [Click Here](https://us06web.zoom.us/rec/share/h1Ji6SvQaLTGLctvxKdkmK6-DeB5zSoTP5u--RSaaB6XfJlh17_6LczQYTGn7opW.M_k2sFRkwJFiEEHy?startTime=1661090799000) | 31q8+Y&y |Arun Sakthivel |
+| 21 AUG, 2022 7:30  PM  | Zoom |   [Click Here](https://us06web.zoom.us/rec/share/h1Ji6SvQaLTGLctvxKdkmK6-DeB5zSoTP5u--RSaaB6XfJlh17_6LczQYTGn7opW.M_k2sFRkwJFiEEHy?startTime=1661090799000) | 31q8+Y&y |Arun Sakthivel |
 
 <br >
 **13th JUNE, 2021 - 11:00 AM**
