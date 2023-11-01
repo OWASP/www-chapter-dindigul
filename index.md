@@ -5,6 +5,7 @@ title: OWASP Dindigul
 tags: Dindigul OWASP Chapter 
 level: 0
 meetup-group: dindigul-owasp-meetup-group
+country: India
 region: Asia
 
 ---
